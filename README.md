@@ -4,6 +4,11 @@
 
 사이트 접속 : https://infohojin.github.io/daelim/
 
+참고서적  
+* [넘버원 PHP](http://www.yes24.com/Product/Goods/58072892?scode=032&OzSrank=2)
+* [넘버투 PHP](http://www.yes24.com/Product/Goods/58072899?scode=032&OzSrank=3)
+* [넘버쓰리 PHP](http://www.yes24.com/Product/Goods/58072905?scode=032&OzSrank=1)
+
 <br>
 <br>
 ## project 2019

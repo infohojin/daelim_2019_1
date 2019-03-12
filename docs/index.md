@@ -1,6 +1,11 @@
 # 대림대학교 웹프로젝트
 졸업작품을 위한 웹프로젝트를 진행합니다. 2~4명 단위로 팀을 구성하여 프로젝트를 구성합니다.
 
+참고서적  
+* [넘버원 PHP](http://www.yes24.com/Product/Goods/58072892?scode=032&OzSrank=2)
+* [넘버투 PHP](http://www.yes24.com/Product/Goods/58072899?scode=032&OzSrank=3)
+* [넘버쓰리 PHP](http://www.yes24.com/Product/Goods/58072905?scode=032&OzSrank=1)
+
 <br>
 <br>
 ## project 2019
