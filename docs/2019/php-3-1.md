@@ -17,6 +17,11 @@ PHP를 이용한 REST API 구축 및 웹 클라이언트 서비스 제작
 
 [안내자료](https://docs.google.com/document/d/e/2PACX-1vRZOal8vWSkA1li2w3nKTY3JZKYB8I6PlL3SC1E2k3caFs4XGKPCG03AqQk0KEDWBbYVlizJz-QOiuq/pub)
 
+참고서적  
+* [넘버원 PHP / 이호진 / 비제이퍼블릭](http://www.yes24.com/Product/Goods/58072892?scode=032&OzSrank=2)
+* [넘버투 PHP / 이호진 / 비제이퍼블릭](http://www.yes24.com/Product/Goods/58072899?scode=032&OzSrank=3)
+* [넘버쓰리 PHP / 이호진 / 비제이퍼블릭](http://www.yes24.com/Product/Goods/58072905?scode=032&OzSrank=1)
+
 ## 1팀
 
 * 강해량

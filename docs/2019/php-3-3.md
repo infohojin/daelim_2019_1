@@ -17,6 +17,11 @@ PHP를 이용한 웹사이트 구축.
 
 [안내자료](https://docs.google.com/document/d/e/2PACX-1vRprmJGuJ_KR91_sfz3CoQrPR7D37hbsxKHTcF9lSh4quBo5bZleOvIsngidaTk8IJW9ARcMLj_wdFD/pub)
 
+참고서적  
+* [넘버원 PHP / 이호진 / 비제이퍼블릭](http://www.yes24.com/Product/Goods/58072892?scode=032&OzSrank=2)
+* [넘버투 PHP / 이호진 / 비제이퍼블릭](http://www.yes24.com/Product/Goods/58072899?scode=032&OzSrank=3)
+* [넘버쓰리 PHP / 이호진 / 비제이퍼블릭](http://www.yes24.com/Product/Goods/58072905?scode=032&OzSrank=1)
+
 ## 1팀
 * 최승호
 * 이용환
